@@ -39,7 +39,8 @@
     "Other"
   ],
   "activationEvents": [
-    "onLanguage:groovy"
+    "onLanguage:groovy",
+    "onLanguage:Jenkinsfile"
   ],
   "main": "./out/extension.js",
   "contributes": {
